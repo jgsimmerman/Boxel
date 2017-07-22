@@ -2,6 +2,8 @@ Boxel
 ======
 Boxel is a near real-time pixelator and Minecraft codec.
 
+https://web.archive.org/web/20151203182249/http://verizoncraft.github.io/
+
 Usage
 ======
 Boxel pixelates and reduces the color pallete of images, websites and video at up to 24fps.
